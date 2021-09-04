@@ -1,0 +1,180 @@
+{
+  "uid" : "53332f095458e13c",
+  "name" : "购买首页商品",
+  "fullName" : "commodity_module.test_commodity_cases.TestCommodityCases#test_commodity_cases_01",
+  "historyId" : "0a155078b1f7dd16d3303d1771438217",
+  "time" : {
+    "start" : 1630700138696,
+    "stop" : 1630700138696,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "set_up_package",
+    "time" : {
+      "start" : 1630700138694,
+      "stop" : 1630700138694,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  }, {
+    "name" : "set_up_module",
+    "time" : {
+      "start" : 1630700138694,
+      "stop" : 1630700138694,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "1.进入首页",
+      "time" : {
+        "start" : 1630700138696,
+        "stop" : 1630700138696,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "2.点击第一个商品",
+      "time" : {
+        "start" : 1630700138696,
+        "stop" : 1630700138696,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 2,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "set_up_package::0",
+    "time" : {
+      "start" : 1630700138697,
+      "stop" : 1630700138697,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  }, {
+    "name" : "set_up_module::0",
+    "time" : {
+      "start" : 1630700138696,
+      "stop" : 1630700138696,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "epic",
+    "value" : "[epic]电商系统"
+  }, {
+    "name" : "severity",
+    "value" : "blocker"
+  }, {
+    "name" : "feature",
+    "value" : "[feature]商品模块"
+  }, {
+    "name" : "story",
+    "value" : "[story]购买实物商品场景"
+  }, {
+    "name" : "parentSuite",
+    "value" : "commodity_module"
+  }, {
+    "name" : "suite",
+    "value" : "test_commodity_cases"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestCommodityCases"
+  }, {
+    "name" : "host",
+    "value" : "BF-20200205MLYR"
+  }, {
+    "name" : "thread",
+    "value" : "79316-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "commodity_module.test_commodity_cases"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ {
+    "name" : "其他说明地址",
+    "url" : "https://www.baidu.com",
+    "type" : "link"
+  }, {
+    "name" : "BUG地址",
+    "url" : "https://www.baidu.com",
+    "type" : "issue"
+  }, {
+    "name" : "商品购买地址",
+    "url" : "https://www.baidu.com",
+    "type" : "test_case"
+  } ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "blocker",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "53332f095458e13c.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,11 @@
+[ {
+  "uid" : "53332f095458e13c",
+  "name" : "购买首页商品",
+  "time" : {
+    "start" : 1630700138696,
+    "stop" : 1630700138696,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+} ]

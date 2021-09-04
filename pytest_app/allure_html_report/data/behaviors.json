@@ -1,0 +1,30 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "[epic]电商系统",
+    "children" : [ {
+      "name" : "[feature]商品模块",
+      "children" : [ {
+        "name" : "[story]购买实物商品场景",
+        "children" : [ {
+          "name" : "购买首页商品",
+          "uid" : "53332f095458e13c",
+          "parentUid" : "1aa16ecf0fe39f0bc39c8435f86b3e81",
+          "status" : "passed",
+          "time" : {
+            "start" : 1630700138696,
+            "stop" : 1630700138696,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "1aa16ecf0fe39f0bc39c8435f86b3e81"
+      } ],
+      "uid" : "de7989fce247071884cb70e64def9536"
+    } ],
+    "uid" : "bc5411f55e80ed1b77a45f002de9d555"
+  } ]
+}

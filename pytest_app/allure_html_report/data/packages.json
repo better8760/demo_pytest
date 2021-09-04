@@ -1,0 +1,22 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "commodity_module.test_commodity_cases",
+    "children" : [ {
+      "name" : "购买首页商品",
+      "uid" : "53332f095458e13c",
+      "parentUid" : "696821bf6914a919757df9abb47495d9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1630700138696,
+        "stop" : 1630700138696,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "commodity_module.test_commodity_cases"
+  } ]
+}

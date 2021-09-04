@@ -1,0 +1,26 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "BF-20200205MLYR",
+    "children" : [ {
+      "name" : "79316-MainThread",
+      "children" : [ {
+        "name" : "购买首页商品",
+        "uid" : "53332f095458e13c",
+        "parentUid" : "df21f7b7a760fe3ef019b847a1fcff97",
+        "status" : "passed",
+        "time" : {
+          "start" : 1630700138696,
+          "stop" : 1630700138696,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "df21f7b7a760fe3ef019b847a1fcff97"
+    } ],
+    "uid" : "a8263975978a4c100037e72c0864b425"
+  } ]
+}
